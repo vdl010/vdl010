@@ -16,5 +16,3 @@ Hi! I'm a CS and Math student at TUM, passionate about Machine Learning and Opti
 
 - **Email:** [ge47bak@mytum.de](ge47bak@mytum.de)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
